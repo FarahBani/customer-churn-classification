@@ -1,0 +1,31 @@
+{
+  "quantitative": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "qualitative": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+  ],
+  "target": "Churn",
+  "id_col": "customerID",
+  "churn_rate_pct": 26.54,
+  "n_samples": 7043,
+  "n_churn_yes": 1869,
+  "n_churn_no": 5174
+}
