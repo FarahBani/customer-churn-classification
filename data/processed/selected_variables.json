@@ -1,0 +1,46 @@
+{
+  "quantitative_sig": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "qualitative_sig": [
+    "Contract",
+    "OnlineSecurity",
+    "TechSupport",
+    "InternetService",
+    "PaymentMethod",
+    "OnlineBackup",
+    "DeviceProtection",
+    "StreamingTV",
+    "StreamingMovies",
+    "PaperlessBilling",
+    "Dependents",
+    "SeniorCitizen",
+    "Partner",
+    "MultipleLines"
+  ],
+  "excluded": [
+    "PhoneService",
+    "gender"
+  ],
+  "all_selected": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "Contract",
+    "OnlineSecurity",
+    "TechSupport",
+    "InternetService",
+    "PaymentMethod",
+    "OnlineBackup",
+    "DeviceProtection",
+    "StreamingTV",
+    "StreamingMovies",
+    "PaperlessBilling",
+    "Dependents",
+    "SeniorCitizen",
+    "Partner",
+    "MultipleLines"
+  ]
+}
